@@ -9,7 +9,7 @@
     "ip": "rigl.aternos.me",
     "port": 34421,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
